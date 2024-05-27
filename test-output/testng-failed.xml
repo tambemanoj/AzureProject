@@ -9,7 +9,6 @@
       <class name="com.tc_awc.functionaltestcases.AWC_Login">
         <methods>
           <include name="Incorrect_login"/>
-          <include name="login"/>
           <include name="tearDown"/>
           <include name="LaunchApplication"/>
         </methods>
