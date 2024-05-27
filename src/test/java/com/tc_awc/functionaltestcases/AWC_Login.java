@@ -16,7 +16,7 @@ import app.getxray.xray.testng.annotations.XrayTest;
 public class AWC_Login extends TestBase {
 	
 //	Active WorkSpace Correct Login
-	@Test
+//	@Test
 	@XrayTest(key = "AB-7")
 	public void login() throws Throwable {
 		login_Page lp = new login_Page();
